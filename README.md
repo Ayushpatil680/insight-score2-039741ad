@@ -1,15 +1,20 @@
-# Welcome to your Lovable project
+# GitGrade - GitHub Repository Analyzer
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/bb5a048d-068f-422a-8cbb-0526458be5db
+**Local URL**: http://localhost:8080
 
-## How can I edit this code?
+## How to run locally
 
-There are several ways of editing your application.
+```sh
+# Install dependencies
+npm install
 
-**Use Lovable**
+# Start development server
+npm run dev
+```
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/bb5a048d-068f-422a-8cbb-0526458be5db) and start prompting.
+The app will be available at `http://localhost:8080`
 
-Working URL : https://github.com/CopilotKit/CopilotKit.git
+## Working Repository URL
+https://github.com/CopilotKit/CopilotKit.git
