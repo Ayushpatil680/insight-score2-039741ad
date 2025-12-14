@@ -2,7 +2,7 @@
 
 ## Project info
 
-**Local URL**: http://localhost:8080
+**URL**: https://lovable.dev/projects/bb5a048d-068f-422a-8cbb-0526458be5db
 
 ## How to run locally
 
